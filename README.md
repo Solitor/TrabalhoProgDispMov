@@ -5,6 +5,8 @@ Alunos:
 Guilherme Pecois Arakaki 		RGA: 2019.1906.026-0
 e 
 José Paulo Camilotti de Oliveira	RGA: 2016.1905.017-0
+e
+Diogo Felipe de Almeida Sousa		RGA: 2019.1902.054-3
 
 Visão Geral:
 
