@@ -14,7 +14,7 @@ Administrador=> Cadastrar ou alterar ou excluir usuários, cadastrar ou alterar 
 Gerente=> Cadastrar ou alterar produtos, cadastrar ou alterar vendas, cadastrar ou alterar compras
  
 Estocador=> Cadastrar ou alterar compras
- 
+
 Vendedor=> Cadastrar ou alterar vendas
 
 Requisitos Funcionais:
@@ -37,5 +37,3 @@ Requisitos Funcionais:
 	11 - Para o cadastro de vendas é necessário possuir o Id do funcionário, id da venda, Nome do Cliente, Data de venda, Id do produto e Quantidade do Produto
 	12 - Para o cadastro de compras é necessário possuir o Id do funcionário, id da compra, nome do fornecedor, Data de compra, Id do produto e Quantidade do Produto
 	13 - A cada cadastro de funcionário é notificado ao gerente
-
-
