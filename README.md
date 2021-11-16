@@ -1,14 +1,21 @@
 # TrabalhoProgDispMov
 
-Alunos: Guilherme Pecois Arakaki e José Paulo Camilotti de Oliveira
+Alunos: 	
+Guilherme Pecois Arakaki 		RGA: 2019.1906.026-0
+e 
+José Paulo Camilotti de Oliveira		RGA: 2016.1905.017-0
 
-Visão Geral: O Software é voltado para o controle de estoque. Ele permite o cadastro de produtos, funcionários, vendas e compras.
+Visão Geral: 
+O Software é voltado para o controle de estoque. Ele permite o cadastro de produtos, funcionários, vendas e compras.
 
-Papeis:
- Administrador=> Cadastrar ou alterar ou excluir usuários, cadastrar ou alterar ou excluir produtos, cadastrar ou alterar ou excluir vendas, cadastrar ou  alterar ou excluir compras
- Gerente=> Cadastrar ou alterar produtos, cadastrar ou alterar vendas, cadastrar ou alterar compras
- Estocador=> Cadastrar ou alterar compras
- Vendedor=> Cadastrar ou alterar vendas
+Papéis:
+Administrador=> Cadastrar ou alterar ou excluir usuários, cadastrar ou alterar ou excluir produtos, cadastrar ou alterar ou excluir vendas, cadastrar ou  alterar ou excluir compras
+ 
+Gerente=> Cadastrar ou alterar produtos, cadastrar ou alterar vendas, cadastrar ou alterar compras
+ 
+Estocador=> Cadastrar ou alterar compras
+ 
+Vendedor=> Cadastrar ou alterar vendas
 
 Requisitos Funcionais:
 	
@@ -30,4 +37,5 @@ Requisitos Funcionais:
 	11 - Para o cadastro de vendas é necessário possuir o Id do funcionário, id da venda, Nome do Cliente, Data de venda, Id do produto e Quantidade do Produto
 	12 - Para o cadastro de compras é necessário possuir o Id do funcionário, id da compra, nome do fornecedor, Data de compra, Id do produto e Quantidade do Produto
 	13 - A cada cadastro de funcionário é notificado ao gerente
+
 
