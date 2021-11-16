@@ -1,14 +1,17 @@
 # TrabalhoProgDispMov
 
 Alunos: 	
+
 Guilherme Pecois Arakaki 		RGA: 2019.1906.026-0
 e 
 José Paulo Camilotti de Oliveira	RGA: 2016.1905.017-0
 
-Visão Geral: 
+Visão Geral:
+
 O Software é voltado para o controle de estoque. Ele permite o cadastro de produtos, funcionários, vendas e compras.
 
 Papéis:
+
 Administrador=> Cadastrar ou alterar ou excluir usuários, cadastrar ou alterar ou excluir produtos, cadastrar ou alterar ou excluir vendas, cadastrar ou  alterar ou excluir compras
  
 Gerente=> Cadastrar ou alterar produtos, cadastrar ou alterar vendas, cadastrar ou alterar compras
