@@ -3,7 +3,7 @@
 Alunos: 	
 Guilherme Pecois Arakaki 		RGA: 2019.1906.026-0
 e 
-José Paulo Camilotti de Oliveira		RGA: 2016.1905.017-0
+José Paulo Camilotti de Oliveira	RGA: 2016.1905.017-0
 
 Visão Geral: 
 O Software é voltado para o controle de estoque. Ele permite o cadastro de produtos, funcionários, vendas e compras.
